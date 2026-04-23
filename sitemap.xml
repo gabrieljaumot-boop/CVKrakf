@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.yourcvy.com/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="de"    href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr"    href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="es"    href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="it"    href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="nl"    href="https://www.yourcvy.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.yourcvy.com/"/>
+  </url>
+
+  <url>
+    <loc>https://www.yourcvy.com/#builder</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.yourcvy.com/#upload</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.yourcvy.com/#ai-powered</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.yourcvy.com/#faq</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
