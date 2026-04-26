@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/api/anthropic"
+  to = "/.netlify/functions/anthropic"
+  status = 200
+
+[functions]
+  directory = "netlify/functions"
